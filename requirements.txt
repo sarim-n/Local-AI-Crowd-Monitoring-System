@@ -1,0 +1,20 @@
+# Local AI Crowd Monitoring Prototype Dependencies (Phase 1, Phase 2, & Phase 3)
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+Pillow>=9.0.0
+opencv-python>=4.7.0
+numpy>=1.23.0
+roboflow>=1.1.0
+streamlit>=1.30.0
+pandas>=1.5.0
+lap>=0.5.12
+fastapi>=0.110.0
+uvicorn>=0.28.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pydantic>=2.0.0
+httpx>=0.27.0
+psutil>=5.8.0
